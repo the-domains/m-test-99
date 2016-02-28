@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 1
+color:
+  saturation: 0.5542865
+  lightness: 0.9624596
+  brandStrength: 0.7580645
+  brandColors:
+    - '#F0ECE8'
+    - '#0D0B0B'
+    - '#F3C588'
+    - '#798678'
+    - '#9CB2C6'
+  rhythmicContrast: 0.1607931
+name: M test 99
