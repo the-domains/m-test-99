@@ -1,26 +1,26 @@
-color:
-  saturation: 0.5542865
-  brandStrength: 0.7580645
-  rhythmicContrast: 0.1607931
-  brandColors:
-    - '#F0ECE8'
-    - '#0D0B0B'
-    - '#F3C588'
-    - '#798678'
-    - '#9CB2C6'
-  lightness: 0.9624596
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 1
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5542865
+  brandStrength: 1
+  lightness: 0.9624596
+  brandColors:
+    - '#F0ECE8'
+    - '#0D0B0B'
+    - '#F3C588'
+    - '#798678'
+    - '#9CB2C6'
+  rhythmicContrast: 1
+typography_spectrum: 0.4982079
+layout_spectrum: 0
 name: M test 99
